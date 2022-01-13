@@ -1,2 +1,2 @@
 # belajar-git
-belajar git via browser
+belajar git via github web
